@@ -1,5 +1,5 @@
 {
-total=$3+$4+$5;
+total=$2+$3+$4;
 avg=total/3;
 if ( avg >= 80 ) grade="A";
 else if ( avg >= 60 && avg < 80) grade ="B";
